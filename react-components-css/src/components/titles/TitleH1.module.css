@@ -1,0 +1,8 @@
+/* Module title h1 css */
+/* Module TitleH1 css */
+
+.title {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: clamp(1.9rem, 5vw, 2.98rem);
+  font-style: italic;
+}

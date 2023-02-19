@@ -1,0 +1,12 @@
+/* Module PrimaryButton css */
+
+button {
+  background: tomato;
+  border-radius: 3px;
+  border: none;
+  color: #f1f1f1;
+}
+
+button:hover {
+  background: #fa1010;
+}
